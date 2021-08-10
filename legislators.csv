@@ -1,0 +1,509 @@
+,CID,Last Name,First Last,Bioguide ID,Office,Party,First Elected,Birth Date,Website
+0,N00044245,Carl,Jerry Carl,C001054,AL01,R,2020,06/17/58,https://carl.house.gov/
+1,N00041295,Moore,Barry Moore,M001212,AL02,R,2020,09/02/66,https://barrymoore.house.gov/
+2,N00024759,Rogers,Mike D Rogers,R000575,AL03,R,2002,1958-07-16,https://mikerogers.house.gov
+3,N00003028,Aderholt,Robert B Aderholt,A000055,AL04,R,1996,1965-07-22,https://aderholt.house.gov
+4,N00030910,Brooks,Mo Brooks,B001274,AL05,R,2010,1954-04-29,https://brooks.house.gov
+5,N00035691,Palmer,Gary Palmer,P000609,AL06,R,2014,1954-05-14,https://palmer.house.gov
+6,N00030622,Sewell,Terri Sewell,S001185,AL07,D,2010,1965-01-01,https://sewell.house.gov
+7,N00044434,Tuberville,Tommy Tuberville,T000278,ALS1,R,2020,09/18/54,https://www.tuberville.senate.gov/
+8,N00009920,Shelby,Richard C Shelby,S000320,ALS2,R,1986,1934-05-06,https://www.shelby.senate.gov
+9,N00007999,Young,Don Young,Y000033,AK01,R,1973,1933-06-09,http://donyoung.house.gov
+10,N00035774,Sullivan,Dan Sullivan,S001198,AKS1,R,2014,1964-11-13,https://www.sullivan.senate.gov
+11,N00026050,Murkowski,Lisa Murkowski,M001153,AKS2,R,2002,1957-05-22,https://www.murkowski.senate.gov
+12,N00037515,O'Halleran,Tom O'Halleran,O000171,AZ01,D,2016,1946-01-24,https://ohalleran.house.gov
+13,N00029260,Kirkpatrick,Ann Kirkpatrick,K000368,AZ02,D,2018,1950-03-24,http://kirkpatrick.house.gov
+14,N00025284,Grijalva,Raul M Grijalva,G000551,AZ03,D,2002,1948-02-19,https://grijalva.house.gov
+15,N00030771,Gosar,Paul Gosar,G000565,AZ04,R,2010,1958-11-22,http://gosar.house.gov
+16,N00039293,Biggs,Andy Biggs,B001302,AZ05,R,2016,1958-11-07,https://biggs.house.gov
+17,N00006460,Schweikert,David Schweikert,S001183,AZ06,R,2010,1962-03-03,https://schweikert.house.gov
+18,N00036097,Gallego,Ruben Gallego,G000574,AZ07,D,2014,1979-11-20,https://rubengallego.house.gov
+19,N00042056,Lesko,Debbie Lesko,L000589,AZ08,R,2018,1958-11-14,https://lesko.house.gov/
+20,N00041750,Stanton,Greg Stanton,S001211,AZ09,D,2018,1970-03-08,https://stanton.house.gov/
+21,N00044223,Kelly,Mark Kelly,K000377,AZS1,D,2020,02/21/64,https://www.kelly.senate.gov/
+22,N00033983,Sinema,Kyrsten Sinema,S001191,AZS2,D,2018,1976-07-12,https://sinema.house.gov
+23,N00030770,Crawford,Rick Crawford,C001087,AR01,R,2010,1966-01-22,http://crawford.house.gov
+24,N00035792,Hill,French Hill,H001072,AR02,R,2014,1956-12-05,https://hill.house.gov
+25,N00031857,Womack,Steve Womack,W000809,AR03,R,2010,1957-02-18,http://womack.house.gov
+26,N00035527,Westerman,Bruce Westerman,W000821,AR04,R,2014,1967-11-18,https://westerman.house.gov
+27,N00033363,Cotton,Tom Cotton,C001095,ARS1,R,2014,1977-05-13,https://www.cotton.senate.gov
+28,N00013873,Boozman,John Boozman,B001236,ARS2,R,2010,1950-12-10,https://www.boozman.senate.gov/public
+29,N00044245,Carl,Jerry Carl,C001054,AL01,R,2020,06/17/58,https://carl.house.gov/
+30,N00041295,Moore,Barry Moore,M001212,AL02,R,2020,09/02/66,https://barrymoore.house.gov/
+31,N00024759,Rogers,Mike D Rogers,R000575,AL03,R,2002,1958-07-16,https://mikerogers.house.gov
+32,N00003028,Aderholt,Robert B Aderholt,A000055,AL04,R,1996,1965-07-22,https://aderholt.house.gov
+33,N00030910,Brooks,Mo Brooks,B001274,AL05,R,2010,1954-04-29,https://brooks.house.gov
+34,N00035691,Palmer,Gary Palmer,P000609,AL06,R,2014,1954-05-14,https://palmer.house.gov
+35,N00030622,Sewell,Terri Sewell,S001185,AL07,D,2010,1965-01-01,https://sewell.house.gov
+36,N00044434,Tuberville,Tommy Tuberville,T000278,ALS1,R,2020,09/18/54,https://www.tuberville.senate.gov/
+37,N00009920,Shelby,Richard C Shelby,S000320,ALS2,R,1986,1934-05-06,https://www.shelby.senate.gov
+38,N00007999,Young,Don Young,Y000033,AK01,R,1973,1933-06-09,http://donyoung.house.gov
+39,N00035774,Sullivan,Dan Sullivan,S001198,AKS1,R,2014,1964-11-13,https://www.sullivan.senate.gov
+40,N00026050,Murkowski,Lisa Murkowski,M001153,AKS2,R,2002,1957-05-22,https://www.murkowski.senate.gov
+41,N00037515,O'Halleran,Tom O'Halleran,O000171,AZ01,D,2016,1946-01-24,https://ohalleran.house.gov
+42,N00029260,Kirkpatrick,Ann Kirkpatrick,K000368,AZ02,D,2018,1950-03-24,http://kirkpatrick.house.gov
+43,N00025284,Grijalva,Raul M Grijalva,G000551,AZ03,D,2002,1948-02-19,https://grijalva.house.gov
+44,N00030771,Gosar,Paul Gosar,G000565,AZ04,R,2010,1958-11-22,http://gosar.house.gov
+45,N00039293,Biggs,Andy Biggs,B001302,AZ05,R,2016,1958-11-07,https://biggs.house.gov
+46,N00006460,Schweikert,David Schweikert,S001183,AZ06,R,2010,1962-03-03,https://schweikert.house.gov
+47,N00036097,Gallego,Ruben Gallego,G000574,AZ07,D,2014,1979-11-20,https://rubengallego.house.gov
+48,N00042056,Lesko,Debbie Lesko,L000589,AZ08,R,2018,1958-11-14,https://lesko.house.gov/
+49,N00041750,Stanton,Greg Stanton,S001211,AZ09,D,2018,1970-03-08,https://stanton.house.gov/
+50,N00044223,Kelly,Mark Kelly,K000377,AZS1,D,2020,02/21/64,https://www.kelly.senate.gov/
+51,N00033983,Sinema,Kyrsten Sinema,S001191,AZS2,D,2018,1976-07-12,https://sinema.house.gov
+52,N00030770,Crawford,Rick Crawford,C001087,AR01,R,2010,1966-01-22,http://crawford.house.gov
+53,N00035792,Hill,French Hill,H001072,AR02,R,2014,1956-12-05,https://hill.house.gov
+54,N00031857,Womack,Steve Womack,W000809,AR03,R,2010,1957-02-18,http://womack.house.gov
+55,N00035527,Westerman,Bruce Westerman,W000821,AR04,R,2014,1967-11-18,https://westerman.house.gov
+56,N00033363,Cotton,Tom Cotton,C001095,ARS1,R,2014,1977-05-13,https://www.cotton.senate.gov
+57,N00013873,Boozman,John Boozman,B001236,ARS2,R,2010,1950-12-10,https://www.boozman.senate.gov/public
+58,N00006134,Degette,Diana DeGette,D000197,CO01,D,1996,1957-07-29,http://degette.house.gov
+59,N00041080,Neguse,Joseph Neguse,N000191,CO02,D,2018,1984-05-13,https://neguse.house.gov/
+60,N00045974,Boebert,Lauren Boebert,B000825,CO03,R,2020,12/15/86,https://boebert.house.gov/
+61,N00030829,Buck,Ken Buck,B001297,CO04,R,2014,1959-02-16,https://buck.house.gov
+62,N00028133,Lamborn,Douglas L Lamborn,L000564,CO05,R,2006,1954-05-24,http://lamborn.house.gov
+63,N00040876,Crow,Jason Crow,C001121,CO06,D,2018,1979-03-15,https://crow.house.gov/
+64,N00027510,Perlmutter,Ed Perlmutter,P000593,CO07,D,2006,1953-05-01,https://perlmutter.house.gov
+65,N00030608,Bennet,Michael Bennet,B001267,COS1,D,2009,1964-11-28,https://www.bennet.senate.gov
+66,N00044206,Hickenlooper,John Hickenlooper,H000273,COS2,D,2020,02/07/52,https://www.hickenlooper.senate.gov/
+67,N00000575,Larson,John Larson,L000557,CT01,D,1998,1948-07-22,https://larson.house.gov
+68,N00024842,Courtney,Joe Courtney,C001069,CT02,D,2006,1953-04-06,https://courtney.house.gov
+69,N00000615,Delauro,Rosa L DeLauro,D000216,CT03,D,1990,1943-03-02,https://delauro.house.gov
+70,N00029070,Himes,Jim Himes,H001047,CT04,D,2008,1966-07-05,https://himes.house.gov
+71,N00043421,Hayes,Jahana Hayes,H001081,CT05,D,2018,1973-03-08,https://hayes.house.gov/
+72,N00027566,Murphy,Christopher S Murphy,M001169,CTS1,D,2012,1973-08-03,https://www.murphy.senate.gov
+73,N00031685,Blumenthal,Richard Blumenthal,B001277,CTS2,D,2010,1946-02-13,https://www.blumenthal.senate.gov
+74,N00038414,Rochester,Lisa Blunt Rochester,B001303,DE01,D,2016,1962-02-10,https://bluntrochester.house.gov
+75,N00012508,Carper,Tom Carper,C000174,DES1,D,2000,1947-01-23,https://www.carper.senate.gov/public
+76,N00031820,Coons,Chris Coons,C001088,DES2,D,2010,1963-09-09,https://www.coons.senate.gov
+77,N00039503,Gaetz,Matt Gaetz,G000578,FL01,R,2016,1982-05-07,https://gaetz.house.gov
+78,N00037442,Dunn,Neal Dunn,D000628,FL02,R,2016,1953-02-16,https://dunn.house.gov
+79,N00045978,Cammack,Kat Cammack,C001039,FL03,R,2020,02/16/88,https://cammack.house.gov/
+80,N00039777,Rutherford,John Rutherford,R000609,FL04,R,2016,1952-09-02,https://rutherford.house.gov
+81,N00030642,Lawson,Al Lawson,L000586,FL05,D,2016,1948-09-21,https://lawson.house.gov
+82,N00042403,Waltz,Michael Waltz,W000823,FL06,R,2018,1974-01-31,https://waltz.house.gov/
+83,N00040133,Murphy,Stephanie Murphy,M001202,FL07,D,2016,1978-09-16,https://stephaniemurphy.house.gov
+84,N00029662,Posey,Bill Posey,P000599,FL08,R,2008,1947-12-18,http://posey.house.gov
+85,N00037422,Soto,Darren Soto,S001200,FL09,D,2016,1978-02-25,https://soto.house.gov
+86,N00033449,Demings,Val Demings,D000627,FL10,D,2016,1957-03-12,https://demings.house.gov
+87,N00026335,Webster,Daniel Webster,W000806,FL11,R,2010,1949-04-27,http://webster.house.gov
+88,N00027462,Bilirakis,Gus Bilirakis,B001257,FL12,R,2006,1963-02-08,https://bilirakis.house.gov
+89,N00002942,Crist,Charlie Crist,C001111,FL13,D,2016,1956-07-24,https://crist.house.gov
+90,N00027514,Castor,Kathy Castor,C001066,FL14,D,2006,1966-08-20,http://castor.house.gov
+91,N00046760,Franklin,Scott Franklin,F000472,FL15,R,2020,08/23/64,https://franklin.house.gov/
+92,N00027626,Buchanan,Vernon Buchanan,B001260,FL16,R,2006,1951-05-08,https://buchanan.house.gov
+93,N00042808,Steube,Greg Steube,S001214,FL17,R,2018,1978-05-19,https://steube.house.gov/
+94,N00037269,Mast,Brian Mast,M001199,FL18,R,2016,1980-07-10,https://mast.house.gov
+95,N00034016,Donalds,Byron Donalds,D000032,FL19,R,2020,10/28/78,https://donalds.house.gov/
+96,N00002884,Hastings,Alcee Hastings,H000324,FL20,D,1992,1936-09-05,http://alceehastings.house.gov
+97,N00002893,Frankel,Lois J Frankel,F000462,FL21,D,2012,1948-05-16,http://frankel.house.gov
+98,N00031317,Deutch,Ted Deutch,D000610,FL22,D,2010,1966-05-07,http://teddeutch.house.gov
+99,N00026106,Schultz,Debbie Wasserman Schultz,W000797,FL23,D,2004,1966-09-27,https://wassermanschultz.house.gov
+100,N00030650,Wilson,Frederica Wilson,W000808,FL24,D,2010,1942-11-05,https://wilson.house.gov
+101,N00025337,Diaz-Balart,Mario Diaz-Balart,D000600,FL25,R,2002,1961-09-25,http://mariodiazbalart.house.gov
+102,N00046394,Gimenez,Carlos Gimenez,G000593,FL26,R,2020,01/17/54,https://gimenez.house.gov/
+103,N00042810,Salazar,Maria Salazar,S000168,FL27,R,2020,11/01/61,https://salazar.house.gov/
+104,N00043290,Scott,Rick Scott,S001217,FLS1,R,2018,1952-12-01,
+105,N00030612,Rubio,Marco Rubio,R000595,FLS2,R,2010,1971-05-28,https://www.rubio.senate.gov
+106,N00035346,Carter,Buddy Carter,C001103,GA01,R,2014,1957-09-06,http://buddycarter.house.gov
+107,N00002674,Bishop,Sanford Bishop,B000490,GA02,D,1992,1947-02-04,http://bishop.house.gov
+108,N00039090,Ferguson,Drew Ferguson,F000465,GA03,R,2016,1967-11-15,https://ferguson.house.gov
+109,N00027848,Johnson,Hank Johnson,J000288,GA04,D,2006,1954-10-02,https://hankjohnson.house.gov
+110,N00047361,Williams,Nikema Williams,W000788,GA05,D,2020,07/30/78,https://nikemawilliams.house.gov/
+111,N00042813,Mcbath,Lucy McBath,M001208,GA06,D,2018,1960-06-01,https://mcbath.house.gov/
+112,N00041791,Bourdeaux,Carolyn Bourdeaux,B001312,GA07,D,2020,06/03/70,https://bourdeaux.house.gov/
+113,N00032457,Scott,Austin Scott,S001189,GA08,R,2010,1969-12-10,https://austinscott.house.gov
+114,N00046654,Clyde,Andrew Clyde,C001116,GA09,R,2020,11/22/63,https://clyde.house.gov/
+115,N00032243,Hice,Jody Hice,H001071,GA10,R,2014,1960-04-22,https://hice.house.gov
+116,N00035347,Loudermilk,Barry Loudermilk,L000583,GA11,R,2014,1963-12-22,http://loudermilk.house.gov
+117,N00033720,Allen,Richard W Allen,A000372,GA12,R,2014,1951-11-07,http://allen.house.gov
+118,N00024871,Scott,David Scott,S001157,GA13,D,2002,1945-06-27,http://davidscott.house.gov
+119,N00044701,Greene,Marjorie Taylor Greene,G000596,GA14,R,2020,05/27/74,https://greene.house.gov/
+120,N00040675,Ossoff,Jon Ossoff,O000174,GAS1,D,2021,02/16/87,https://www.ossoff.senate.gov/
+121,N00046489,Warnock,Raphael Warnock,W000790,GAS2,D,2021,07/23/69,https://www.warnock.senate.gov/
+122,N00046125,Loeffler,Kelly Loeffler,,GAS2,R,2020,,
+123,N00025882,Case,Ed Case,C001055,HI01,D,2018,1952-09-27,https://case.house.gov
+124,N00044007,Kahele,Kai Kahele,K000396,HI02,D,2020,03/28/74,https://kahele.house.gov/
+125,N00028138,Schatz,Brian Schatz,S001194,HIS1,D,2012,1972-10-20,https://www.schatz.senate.gov
+126,N00028139,Hirono,Mazie K Hirono,H001042,HIS2,D,2012,1947-11-03,https://www.hirono.senate.gov
+127,N00041335,Fulcher,Russ Fulcher,F000469,ID01,R,2018,1973-07-19,https://fulcher.house.gov/
+128,N00006263,Simpson,Mike Simpson,S001148,ID02,R,1998,1950-09-08,http://simpson.house.gov
+129,N00029441,Risch,James E Risch,R000584,IDS1,R,2008,1943-05-03,https://www.risch.senate.gov
+130,N00006267,Crapo,Mike Crapo,C000880,IDS2,R,1998,1951-05-20,https://www.crapo.senate.gov
+131,N00004887,Rush,Bobby L Rush,R000515,IL01,D,1992,1946-11-23,http://rush.house.gov
+132,N00035215,Kelly,Robin Kelly,K000385,IL02,D,2013,1956-04-30,https://robinkelly.house.gov
+133,N00040891,Newman,Marie Newman,N000192,IL03,D,2020,04/13/64,https://newman.house.gov/
+134,N00042114,Garcia,Jesus Garcia,G000586,IL04,D,2018,1956-04-12,https://jesusgarcia.house.gov/
+135,N00030581,Quigley,Mike Quigley,Q000023,IL05,D,2009,1958-10-17,https://quigley.house.gov
+136,N00041338,Casten,Sean Casten,C001117,IL06,D,2018,1971-11-23,https://casten.house.gov/
+137,N00004884,Davis,Danny K Davis,D000096,IL07,D,1996,1941-09-06,https://davis.house.gov
+138,N00033240,Krishnamoorthi,Raja Krishnamoorthi,K000391,IL08,D,2016,1973-07-19,https://krishnamoorthi.house.gov
+139,N00004724,Schakowsky,Jan Schakowsky,S001145,IL09,D,1998,1944-05-26,https://schakowsky.house.gov
+140,N00033101,Schneider,Brad Schneider,S001190,IL10,D,2016,1961-08-20,https://schneider.house.gov
+141,N00029139,Foster,Bill Foster,F000454,IL11,D,2012,1955-10-07,http://foster.house.gov
+142,N00035420,Bost,Mike Bost,B001295,IL12,R,2014,1960-12-30,https://bost.house.gov
+143,N00034784,Davis,Rodney Davis,D000619,IL13,R,2012,1970-01-05,http://rodneydavis.house.gov
+144,N00041569,Underwood,Lauren A Underwood,U000040,IL14,D,2018,1986-10-04,https://underwood.house.gov/
+145,N00045703,Miller,Mary Miller,M001211,IL15,R,2020,08/07/59,https://marymiller.house.gov/
+146,N00030667,Kinzinger,Adam Kinzinger,K000378,IL16,R,2010,1978-02-27,http://kinzinger.house.gov
+147,N00033390,Bustos,Cheri Bustos,B001286,IL17,D,2012,1961-10-17,https://bustos.house.gov
+148,N00037031,Lahood,Darin LaHood,L000585,IL18,R,2015,1968-07-05,https://lahood.house.gov
+149,N00004981,Durbin,Dick Durbin,D000563,ILS1,D,1996,1944-11-21,https://www.durbin.senate.gov
+150,N00027860,Duckworth,Tammy Duckworth,D000622,ILS2,D,2016,1968-03-12,https://www.duckworth.senate.gov
+151,N00045905,Mrvan,Frank J. Mrvan,M001214,IN01,D,2020,04/16/69,https://mrvan.house.gov/
+152,N00031226,Walorski,Jackie Walorski,W000813,IN02,R,2012,1963-08-17,http://walorski.house.gov
+153,N00037185,Banks,Jim Banks,B001299,IN03,R,2016,1979-07-16,https://banks.house.gov
+154,N00041954,Baird,Jim Baird,B001307,IN04,R,2018,1945-06-04,https://baird.house.gov/
+155,N00046537,Spartz,Victoria Spartz,S000929,IN05,R,2020,10/06/78,https://spartz.house.gov/
+156,N00041956,Pence,Greg Pence,P000615,IN06,R,2018,1956-11-14,https://pence.house.gov/
+157,N00029513,Carson,Andre Carson,C001072,IN07,D,2008,1974-10-16,http://carson.house.gov
+158,N00031227,Bucshon,Larry Bucshon,B001275,IN08,R,2010,1962-05-31,https://bucshon.house.gov
+159,N00038429,Hollingsworth,Trey Hollingsworth,H001074,IN09,R,2016,1983-09-12,https://hollingsworth.house.gov
+160,N00041731,Braun,Mike Braun,B001310,INS1,R,2018,1954-03-24,https://www.braun.senate.gov
+161,N00030670,Young,Todd Young,Y000064,INS2,R,2016,1972-08-24,https://www.young.senate.gov
+162,N00044521,Hinson,Ashley Hinson,H001091,IA01,R,2020,06/27/83,https://hinson.house.gov/
+163,N00029495,Miller-Meeks,Mariannette Miller-Meeks,M001215,IA02,R,2020,09/06/55,https://millermeeks.house.gov/
+164,N00041104,Axne,Cindy Axne,A000378,IA03,D,2018,1965-04-20,https://axne.house.gov/
+165,N00044011,Feenstra,Randy Feenstra,F000446,IA04,R,2020,01/14/69,https://feenstra.house.gov/
+166,N00001758,Grassley,Chuck Grassley,G000386,IAS1,R,1980,1933-09-17,https://www.grassley.senate.gov
+167,N00035483,Ernst,Joni Ernst,E000295,IAS2,R,2014,1970-07-01,https://www.ernst.senate.gov/public
+168,N00030743,Mann,Tracey Mann,M000871,KS01,R,2020,12/17/76,https://mann.house.gov/
+169,N00044232,Laturner,Jake Laturner,L000266,KS02,R,2020,02/17/88,https://laturner.house.gov/
+170,N00042626,Davids,Sharice Davids,D000629,KS03,D,2018,1980-05-22,https://davids.house.gov/
+171,N00040712,Estes,Ron Estes,E000298,KS04,R,2017,1956-07-19,https://estes.house.gov
+172,N00037034,Marshall,Roger Marshall,M001198,KSS1,R,2020,1960-08-09,https://marshall.house.gov
+173,N00005282,Moran,Jerry Moran,M000934,KSS2,R,2010,1954-05-29,https://www.moran.senate.gov
+174,N00038260,Comer,James Comer,C001108,KY01,R,2016,1972-08-19,https://comer.house.gov
+175,N00029675,Guthrie,Brett Guthrie,G000558,KY02,R,2008,1964-02-18,https://guthrie.house.gov
+176,N00028073,Yarmuth,John Yarmuth,Y000062,KY03,D,2006,1947-11-04,https://yarmuth.house.gov
+177,N00034041,Massie,Thomas Massie,M001184,KY04,R,2012,1971-01-13,https://massie.house.gov
+178,N00003473,Rogers,Hal Rogers,R000395,KY05,R,1980,1937-12-31,http://halrogers.house.gov
+179,N00031233,Barr,Andy Barr,B001282,KY06,R,2012,1973-07-24,https://barr.house.gov
+180,N00003389,Mcconnell,Mitch McConnell,M000355,KYS1,R,1984,1942-02-20,https://www.mcconnell.senate.gov
+181,N00030836,Paul,Rand Paul,P000603,KYS2,R,2010,1963-01-07,https://www.paul.senate.gov
+182,N00009660,Scalise,Steve Scalise,S001176,LA01,R,2008,1965-10-06,http://scalise.house.gov
+183,N00025766,Carter,Troy Carter,,LA02,D,2021,,
+184,N00030184,Richmond,Cedric Richmond,R000588,LA02,D,2010,1973-09-13,https://richmond.house.gov
+185,N00039953,Higgins,Clay Higgins,H001077,LA03,R,2016,1961-08-24,https://clayhiggins.house.gov
+186,N00039106,Johnson,Mike Johnson,J000291,LA04,R,2016,1972-01-30,https://mikejohnson.house.gov
+187,N00047972,Letlow,Julia Letlow,,LA05,R,2021,,
+188,N00036135,Graves,Garret Graves,G000577,LA06,R,2014,1972-01-31,https://garretgraves.house.gov
+189,N00030245,Cassidy,Bill Cassidy,C001075,LAS1,R,2014,1957-09-28,https://www.cassidy.senate.gov
+190,N00026823,Kennedy,John Kennedy,K000393,LAS2,R,2016,1951-11-21,https://www.kennedy.senate.gov
+191,N00013817,Pingree,Chellie Pingree,P000597,ME01,D,2008,1955-04-02,https://pingree.house.gov
+192,N00041668,Golden,Jared Golden,G000592,ME02,D,2018,1982-07-25,https://golden.house.gov
+193,N00034580,King,Angus King,K000383,MES1,I,2012,1944-03-31,https://www.king.senate.gov
+194,N00000491,Collins,Susan Collins,C001035,MES2,R,1996,1952-12-07,http://www.collins.senate.gov
+195,N00029147,Harris,Andy Harris,H001052,MD01,R,2010,1957-01-25,http://harris.house.gov
+196,N00025482,Ruppersberger,Dutch Ruppersberger,R000576,MD02,D,2002,1946-01-31,http://ruppersberger.house.gov
+197,N00027751,Sarbanes,John Sarbanes,S001168,MD03,D,2006,1962-05-22,https://sarbanes.house.gov
+198,N00036999,Brown,Anthony Brown,B001304,MD04,D,2016,1961-11-21,https://anthonybrown.house.gov
+199,N00001821,Hoyer,Steny H Hoyer,H000874,MD05,D,1981,1939-06-14,https://hoyer.house.gov
+200,N00039122,Trone,David Trone,T000483,MD06,D,2018,1955-09-21,https://trone.house.gov/
+201,N00001799,Mfume,Kweisi Mfume,,MD07,D,2020,,
+202,N00037036,Raskin,Jamie Raskin,R000606,MD08,D,2016,1962-12-13,https://raskin.house.gov
+203,N00001955,Cardin,Ben Cardin,C000141,MDS1,D,2006,1943-10-05,https://www.cardin.senate.gov
+204,N00013820,Van Hollen,Chris Van Hollen,V000128,MDS2,D,2016,1959-01-10,https://www.vanhollen.senate.gov
+205,N00000153,Neal,Richard E Neal,N000015,MA01,D,1988,1949-02-14,https://neal.house.gov
+206,N00000179,Mcgovern,James P McGovern,M000312,MA02,D,1996,1959-11-20,http://mcgovern.house.gov
+207,N00041808,Trahan,Lori Trahan,T000482,MA03,D,2018,1973-10-27,https://trahan.house.gov/
+208,N00045506,Auchincloss,Jake Auchincloss,A000148,MA04,D,2020,01/29/88,https://auchincloss.house.gov/
+209,N00035278,Clark,Katherine Clark,C001101,MA05,D,2013,1963-07-17,https://katherineclark.house.gov
+210,N00035431,Moulton,Seth Moulton,M001196,MA06,D,2014,1978-10-24,http://moulton.house.gov
+211,N00042581,Pressley,Ayanna Pressley,P000617,MA07,D,2018,1974-02-03,https://pressley.house.gov/
+212,N00013855,Lynch,Stephen F Lynch,L000562,MA08,D,2001,1955-03-31,http://lynch.house.gov
+213,N00031933,Keating,Bill Keating,K000375,MA09,D,2010,1952-09-06,https://keating.house.gov
+214,N00033492,Warren,Elizabeth Warren,W000817,MAS1,D,2012,1949-06-22,https://www.warren.senate.gov
+215,N00000270,Markey,Ed Markey,M000133,MAS2,D,2013,1946-07-11,https://www.markey.senate.gov
+216,N00039533,Bergman,John Bergman,B001301,MI01,R,2016,1947-02-02,https://bergman.house.gov
+217,N00030673,Huizenga,Bill Huizenga,H001058,MI02,R,2010,1969-01-31,http://huizenga.house.gov
+218,N00044884,Meijer,Peter Meijer,M001186,MI03,R,2020,,https://meijer.house.gov/
+219,N00036275,Moolenaar,John Moolenaar,M001194,MI04,R,2014,1961-05-08,https://moolenaar.house.gov
+220,N00033395,Kildee,Dan Kildee,K000380,MI05,D,2012,1958-08-11,http://dankildee.house.gov
+221,N00004133,Upton,Fred Upton,U000031,MI06,R,1986,1953-04-23,http://upton.house.gov
+222,N00026368,Walberg,Tim Walberg,W000798,MI07,R,2010,1951-04-12,http://walberg.house.gov
+223,N00041357,Slotkin,Elissa Slotkin,S001208,MI08,D,2018,1976-07-10,https://slotkin.house.gov/
+224,N00042149,Levin,Andy Levin,L000592,MI09,D,2018,1960-08-01,https://andylevin.house.gov/
+225,N00045730,Mcclain,Lisa McClain,M001136,MI10,R,2020,04/07/66,https://mcclain.house.gov/
+226,N00040915,Stevens,Haley Stevens,S001215,MI11,D,2018,1983-06-01,https://stevens.house.gov/
+227,N00036149,Dingell,Debbie Dingell,D000624,MI12,D,2014,1953-11-23,https://debbiedingell.house.gov
+228,N00042649,Tlaib,Rashida Tlaib,T000481,MI13,D,2018,1976-07-24,https://tlaib.house.gov/
+229,N00034068,Lawrence,Brenda Lawrence,L000581,MI14,D,2014,1954-10-18,https://lawrence.house.gov
+230,N00029277,Peters,Gary Peters,P000595,MIS1,D,2014,1958-12-01,https://www.peters.senate.gov
+231,N00004118,Stabenow,Debbie Stabenow,S000770,MIS2,D,2000,1950-04-29,https://www.stabenow.senate.gov
+232,N00031390,Hagedorn,Jim Hagedorn,H001088,MN01,R,2018,1962-08-04,https://hagedorn.house.gov/
+233,N00037039,Craig,Angie Craig,C001119,MN02,D,2018,1972-02-14,https://craig.house.gov/
+234,N00041134,Phillips,Dean Phillips,P000616,MN03,D,2018,1969-01-20,https://phillips.house.gov/
+235,N00012942,Mccollum,Betty McCollum,M001143,MN04,D,2000,1954-07-12,http://mccollum.house.gov
+236,N00043581,Omar,Ilhan Omar,O000173,MN05,D,2018,1981-10-04,https://omar.house.gov/
+237,N00035440,Emmer,Tom Emmer,E000294,MN06,R,2014,1961-03-03,https://emmer.house.gov
+238,N00045251,Fischbach,Michelle Fischbach,F000470,MN07,R,2020,11/03/65,https://fischbach.house.gov/
+239,N00041511,Stauber,Pete Stauber,S001212,MN08,R,2018,1966-05-10,https://stauber.house.gov/
+240,N00042353,Smith,Tina Smith,S001203,MNS1,D,2018,1958-03-04,https://www.smith.senate.gov
+241,N00027500,Klobuchar,Amy Klobuchar,K000367,MNS2,D,2006,1960-05-25,https://www.klobuchar.senate.gov
+242,N00037003,Kelly,Trent Kelly,K000388,MS01,R,2015,1966-03-01,https://trentkelly.house.gov
+243,N00003288,Thompson,Bennie G Thompson,T000193,MS02,D,1993,1948-01-28,https://benniethompson.house.gov
+244,N00042458,Guest,Michael Guest,G000591,MS03,R,2018,1970-02-04,https://guest.house.gov/
+245,N00031958,Palazzo,Steven Palazzo,P000601,MS04,R,2010,1970-02-21,http://palazzo.house.gov
+246,N00043298,Hyde-Smith,Cindy Hyde-Smith,H001079,MSS1,R,2018,1959-05-10,https://www.hydesmith.senate.gov
+247,N00003280,Wicker,Roger Wicker,W000437,MSS2,R,2007,1951-07-05,https://www.wicker.senate.gov
+248,N00039373,Bush,Cori Bush,B001224,MO01,D,2020,07/21/76,https://bush.house.gov/
+249,N00033106,Wagner,Ann Wagner,W000812,MO02,R,2012,1962-09-13,http://wagner.house.gov
+250,N00030026,Luetkemeyer,Blaine Luetkemeyer,L000569,MO03,R,2008,1952-05-07,http://luetkemeyer.house.gov
+251,N00031005,Hartzler,Vicky Hartzler,H001053,MO04,R,2010,1960-10-13,https://hartzler.house.gov
+252,N00026790,Cleaver,Emanuel Cleaver,C001061,MO05,D,2004,1944-10-26,http://cleaver.house.gov
+253,N00013323,Graves,Sam Graves,G000546,MO06,R,2000,1963-11-07,https://graves.house.gov
+254,N00030676,Long,Billy Long,L000576,MO07,R,2010,1955-08-11,https://long.house.gov
+255,N00035282,Smith,Jason Smith,S001195,MO08,R,2013,1980-06-16,https://jasonsmith.house.gov
+256,N00005195,Blunt,Roy Blunt,B000575,MOS1,R,2010,1950-01-10,https://www.blunt.senate.gov/public
+257,N00041620,Hawley,Josh Hawley,H001089,MOS2,R,2018,1979-12-31,https://www.hawley.senate.gov
+258,N00035517,Rosendale,Matt Rosendale,R000103,MT01,R,2020,07/07/60,https://rosendale.house.gov/
+259,N00027605,Tester,Jon Tester,T000464,MTS1,D,2006,1956-08-21,https://www.tester.senate.gov
+260,N00033054,Daines,Steven Daines,D000618,MTS2,R,2014,1962-08-20,https://www.daines.senate.gov
+261,N00030191,Titus,Dina Titus,T000468,NV01,D,2012,1950-05-23,https://titus.house.gov
+262,N00031177,Amodei,Mark Amodei,A000369,NV02,R,2011,1958-06-12,https://amodei.house.gov
+263,N00037247,Lee,Susie Lee,L000590,NV03,D,2018,1966-11-07,https://susielee.house.gov/
+264,N00033638,Horsford,Steven Horsford,H001066,NV04,D,2018,1973-04-29,http://horsford.house.gov
+265,N00038734,Rosen,Jacky Rosen,R000608,NVS1,D,2018,1957-08-02,https://rosen.house.gov
+266,N00037161,Masto,Catherine Cortez Masto,C001113,NVS2,D,2016,1964-03-29,https://www.cortezmasto.senate.gov
+267,N00042161,Pappas,Chris Pappas,P000614,NH01,D,2018,1980-06-04,https://pappas.house.gov/
+268,N00030875,Kuster,Ann Kuster,K000382,NH02,D,2012,1956-09-05,http://kuster.house.gov
+269,N00038397,Hassan,Maggie Hassan,H001076,NHS1,D,2016,1958-02-27,https://www.hassan.senate.gov
+270,N00024790,Shaheen,Jeanne Shaheen,S001181,NHS2,D,2008,1947-01-28,https://www.shaheen.senate.gov
+271,N00036154,Norcross,Don Norcross,N000188,NJ01,D,2014,1958-12-13,https://norcross.house.gov
+272,N00042164,Van Drew,Jeff Van Drew,V000133,NJ02,R,2018,1953-02-23,https://vandrew.house.gov/
+273,N00041370,Kim,Andy Kim,K000394,NJ03,D,2018,1982-07-12,https://kim.house.gov/
+274,N00009816,Smith,Chris Smith,S000522,NJ04,R,1980,1953-03-04,http://chrissmith.house.gov
+275,N00036944,Gottheimer,Josh Gottheimer,G000583,NJ05,D,2016,1975-03-08,https://gottheimer.house.gov
+276,N00000781,Pallone,Frank Pallone Jr.,P000034,NJ06,D,1988,1951-10-30,https://pallone.house.gov
+277,N00041843,Malinowski,Tom Malinowski,M001203,NJ07,D,2018,1965-09-23,https://malinowski.house.gov/
+278,N00027523,Sires,Albio Sires,S001165,NJ08,D,2006,1951-01-26,https://sires.house.gov
+279,N00000751,Pascrell,Bill Pascrell Jr.,P000096,NJ09,D,1996,1937-01-25,http://pascrell.house.gov
+280,N00034639,Payne,Donald M Payne Jr.,P000604,NJ10,D,2012,1958-12-17,http://payne.house.gov
+281,N00041154,Sherrill,Mikie Sherrill,S001207,NJ11,D,2018,1972-01-19,https://sherrill.house.gov/
+282,N00036158,Coleman,Bonnie Watson Coleman,W000822,NJ12,D,2014,1945-02-06,https://watsoncoleman.house.gov
+283,N00000699,Menendez,Robert Menendez,M000639,NJS1,D,2006,1954-01-01,https://www.menendez.senate.gov
+284,N00035267,Booker,Cory Booker,B001288,NJS2,D,2013,1969-04-27,https://www.booker.senate.gov
+285,N00040933,Haaland,Debra Haaland,H001080,NM01,D,2018,1960-12-02,https://haaland.house.gov/
+286,N00047871,Stansbury,Melanie Stansbury,,NM01,D,2021,,
+287,N00041454,Herrell,Yvette Herrell,H001084,NM02,R,2020,03/16/64,https://herrell.house.gov/
+288,N00044559,Fernandez,Teresa Leger Fernandez,L000273,NM03,D,2020,07/01/59,https://fernandez.house.gov/
+289,N00029835,Heinrich,Martin Heinrich,H001046,NMS1,D,2012,1971-10-17,https://www.heinrich.senate.gov
+290,N00029562,Lujan,Ben Ray Lujan,L000570,NMS2,D,2020,1972-06-07,https://lujan.house.gov
+291,N00029404,Zeldin,Lee Zeldin,Z000017,NY01,R,2014,1980-01-30,https://zeldin.house.gov
+292,N00046030,Garbarino,Andrew Garbarino,G000597,NY02,R,2020,09/27/84,https://garbarino.house.gov/
+293,N00038742,Suozzi,Tom Suozzi,S001201,NY03,D,2016,1962-08-31,https://suozzi.house.gov
+294,N00035927,Rice,Kathleen Rice,R000602,NY04,D,2014,1965-02-15,http://kathleenrice.house.gov
+295,N00001171,Meeks,Gregory W Meeks,M001137,NY05,D,1998,1953-09-25,http://meeks.house.gov
+296,N00034547,Meng,Grace Meng,M001188,NY06,D,2012,1975-10-01,http://meng.house.gov
+297,N00001102,Velazquez,Nydia Velazquez,V000081,NY07,D,1992,1953-03-28,https://velazquez.house.gov
+298,N00033640,Jeffries,Hakeem Jeffries,J000294,NY08,D,2012,1970-08-04,http://jeffries.house.gov
+299,N00026961,Clarke,Yvette D Clarke,C001067,NY09,D,2006,1964-11-21,https://clarke.house.gov
+300,N00000939,Nadler,Jerrold Nadler,N000002,NY10,D,1992,1947-06-13,http://nadler.house.gov
+301,N00044040,Malliotakis,Nicole Malliotakis,M000317,NY11,R,2020,11/11/80,https://malliotakis.house.gov/
+302,N00000078,Maloney,Carolyn B Maloney,M000087,NY12,D,1992,1946-02-19,http://maloney.house.gov
+303,N00034549,Espaillat,Adriano Espaillat,E000297,NY13,D,2016,1954-09-27,https://espaillat.house.gov
+304,N00041162,Ocasio-Cortez,Alexandria Ocasio-Cortez,O000172,NY14,D,2018,1989-10-13,https://ocasio-cortez.house.gov/
+305,N00044346,Torres,Ritchie Torres,T000486,NY15,D,2020,03/12/88,https://ritchietorres.house.gov/
+306,N00044790,Bowman,Jamaal Bowman,B001223,NY16,D,2020,04/01/76,https://bowman.house.gov/
+307,N00044908,Jones,Mondaire Jones,J000306,NY17,D,2020,05/18/87,https://jones.house.gov/
+308,N00034277,Maloney,Sean Patrick Maloney,M001185,NY18,D,2012,1966-07-30,http://seanmaloney.house.gov
+309,N00040741,Delgado,Antonio Delgado,D000630,NY19,D,2018,1977-01-19,https://delgado.house.gov/
+310,N00030196,Tonko,Paul Tonko,T000469,NY20,D,2008,1949-06-18,https://tonko.house.gov
+311,N00035523,Stefanik,Elise Stefanik,S001196,NY21,R,2014,1984-07-02,https://stefanik.house.gov
+312,N00036351,Tenney,Claudia Tenney,T000478,NY22,R,2020,1961-02-04,https://tenney.house.gov
+313,N00030949,Reed,Tom Reed,R000585,NY23,R,2010,1971-11-18,https://reed.house.gov
+314,N00035934,Katko,John Katko,K000386,NY24,R,2014,1962-11-09,https://katko.house.gov
+315,N00043207,Morelle,Joseph D Morelle,M001206,NY25,D,2018,1957-04-29,https://morelle.house.gov
+316,N00027060,Higgins,Brian M Higgins,H001038,NY26,D,2004,1959-10-06,http://higgins.house.gov
+317,N00044575,Jacobs,Chris Jacobs,,NY27,R,2020,,
+318,N00027658,Gillibrand,Kirsten Gillibrand,G000555,NYS1,D,2009,1966-12-09,https://www.gillibrand.senate.gov
+319,N00001093,Schumer,Charles E Schumer,S000148,NYS2,D,1998,1950-11-23,https://www.schumer.senate.gov
+320,N00027035,Butterfield,G K Butterfield,B001251,NC01,D,2004,1947-04-27,http://butterfield.house.gov
+321,N00038565,Ross,Deborah Ross,R000305,NC02,D,2020,06/20/63,https://ross.house.gov/
+322,N00044027,Murphy,Greg Murphy,,NC03,R,2019,,
+323,N00002260,Price,David Price,P000523,NC04,D,1986,1940-08-17,https://price.house.gov
+324,N00026166,Foxx,Virginia Foxx,F000450,NC05,R,2004,1943-06-29,http://foxx.house.gov
+325,N00042159,Manning,Kathy Manning,M001135,NC06,D,2020,12/03/56,https://manning.house.gov/
+326,N00033527,Rouzer,David Rouzer,R000603,NC07,R,2014,1972-02-16,https://rouzer.house.gov
+327,N00033630,Hudson,Richard Hudson,H001067,NC08,R,2012,1971-11-04,https://hudson.house.gov
+328,N00044335,Bishop,Dan Bishop,,NC09,R,2019,,
+329,N00026627,Mchenry,Patrick McHenry,M001156,NC10,R,2004,1975-10-22,http://mchenry.house.gov
+330,N00046252,Cawthorn,Madison Cawthorn,C001104,NC11,R,2020,08/01/95,https://cawthorn.house.gov/
+331,N00035451,Adams,Alma Adams,A000370,NC12,D,2014,1946-05-27,http://adams.house.gov
+332,N00039551,Budd,Ted Budd,B001305,NC13,R,2016,1971-10-21,https://budd.house.gov
+333,N00035492,Tillis,Thom Tillis,T000476,NCS1,R,2014,1960-08-30,https://www.tillis.senate.gov/public
+334,N00002221,Burr,Richard Burr,B001135,NCS2,R,2004,1955-11-30,https://www.burr.senate.gov
+335,N00042868,Armstrong,Kelly Armstrong,A000377,ND01,R,2018,1976-10-08,https://armstrong.house.gov/
+336,N00031688,Hoeven,John Hoeven,H001061,NDS1,R,2010,1957-03-13,https://www.hoeven.senate.gov
+337,N00004614,Cramer,Kevin Cramer,C001096,NDS2,R,2018,1961-01-21,http://cramer.house.gov
+338,N00003689,Chabot,Steve Chabot,C000266,OH01,R,2010,1953-01-22,http://chabot.house.gov
+339,N00033310,Wenstrup,Brad Wenstrup,W000815,OH02,R,2012,1958-06-17,http://wenstrup.house.gov
+340,N00033904,Beatty,Joyce Beatty,B001281,OH03,D,2012,1950-03-12,http://beatty.house.gov
+341,N00027894,Jordan,Jim Jordan,J000289,OH04,R,2006,1964-02-17,http://jordan.house.gov
+342,N00012233,Latta,Bob Latta,L000566,OH05,R,2007,1956-04-18,http://latta.house.gov
+343,N00032088,Johnson,Bill Johnson,J000292,OH06,R,2010,1954-11-10,http://billjohnson.house.gov
+344,N00031128,Gibbs,Bob Gibbs,G000563,OH07,R,2010,1954-06-14,https://gibbs.house.gov
+345,N00038767,Davidson,Warren Davidson,D000626,OH08,R,2016,1970-03-01,https://davidson.house.gov
+346,N00003522,Kaptur,Marcy Kaptur,K000009,OH09,D,1982,1946-06-17,https://kaptur.house.gov
+347,N00025175,Turner,Michael R Turner,T000463,OH10,R,2002,1960-01-11,https://turner.house.gov
+348,N00030490,Fudge,Marcia Fudge,F000455,OH11,D,2008,1952-10-29,https://fudge.house.gov
+349,N00042194,Balderson,Troy Balderson,B001306,OH12,R,2018,1962-01-16,https://balderson.house.gov/
+350,N00025280,Ryan,Tim Ryan,R000577,OH13,D,2002,1973-07-16,http://timryan.house.gov
+351,N00035007,Joynce,David P Joyce,J000295,OH14,R,2012,1957-03-17,https://joyce.house.gov
+352,N00029574,Stivers,Steve Stivers,S001187,OH15,R,2010,1965-03-24,http://stivers.house.gov
+353,N00041690,Gonzalez,Anthony Gonzalez,G000588,OH16,R,2018,1984-09-19,https://anthonygonzalez.house.gov/
+354,N00003535,Brown,Sherrod Brown,B000944,OHS1,D,2006,1952-11-09,https://www.brown.senate.gov
+355,N00003682,Portman,Rob Portman,P000449,OHS2,R,2010,1955-12-19,https://www.portman.senate.gov
+356,N00040829,Hern,Kevin Hern,H001082,OK01,R,2018,1961-12-04,https://hern.house.gov
+357,N00033410,Mullin,Markwayne Mullin,M001190,OK02,R,2012,1977-07-26,https://mullin.house.gov
+358,N00005559,Lucas,Frank D Lucas,L000491,OK03,R,1994,1960-01-06,http://lucas.house.gov
+359,N00025726,Cole,Tom Cole,C001053,OK04,R,2002,1949-04-28,https://cole.house.gov
+360,N00044579,Bice,Stephanie Bice,B000740,OK05,R,2020,11/11/73,https://bice.house.gov/
+361,N00031129,Lankford,James Lankford,L000575,OKS1,R,2014,1968-03-04,https://www.lankford.senate.gov
+362,N00005582,Inhofe,James M Inhofe,I000024,OKS2,R,1994,1934-11-17,https://www.inhofe.senate.gov
+363,N00033474,Bonamici,Suzanne Bonamici,B001278,OR01,D,2012,1954-10-14,http://bonamici.house.gov
+364,N00045773,Bentz,Cliff Bentz,B000668,OR02,R,2020,01/12/52,https://bentz.house.gov/
+365,N00007727,Blumenauer,Earl Blumenauer,B000574,OR03,D,1996,1948-08-16,https://blumenauer.house.gov
+366,N00007781,Defazio,Peter DeFazio,D000191,OR04,D,1986,1947-05-27,http://defazio.house.gov
+367,N00030071,Schrader,Kurt Schrader,S001180,OR05,D,2008,1951-10-19,http://schrader.house.gov
+368,N00029303,Merkley,Jeff Merkley,M001176,ORS1,D,2008,1956-10-24,https://www.merkley.senate.gov
+369,N00007724,Wyden,Ron Wyden,W000779,ORS2,D,1996,1949-05-03,https://www.wyden.senate.gov
+370,N00038779,Fitzpatrick,Brian Fitzpatrick,F000466,PA01,R,2016,1973-12-17,https://brianfitzpatrick.house.gov
+371,N00035307,Boyle,Brendan Boyle,B001296,PA02,D,2014,1977-02-06,https://boyle.house.gov
+372,N00038450,Evans,Dwight Evans,E000296,PA03,D,2016,1954-05-16,https://evans.house.gov
+373,N00042894,Dean,Madeleine Dean,D000631,PA04,D,2018,1959-06-06,https://dean.house.gov/
+374,N00042706,Scanlon,Mary Gay Scanlon,S001205,PA05,D,2018,1959-08-30,https://scanlon.house.gov
+375,N00040949,Houlahan,Chrissy Houlahan,H001085,PA06,D,2018,1967-06-05,https://houlahan.house.gov/
+376,N00041997,Wild,Susan Wild,W000826,PA07,D,2018,1957-06-07,https://wild.house.gov
+377,N00034128,Cartwright,Matt Cartwright,C001090,PA08,D,2012,1961-05-01,http://cartwright.house.gov
+378,N00029416,Meuser,Dan Meuser,M001204,PA09,R,2018,1964-02-10,https://meuser.house.gov/
+379,N00034120,Perry,Scott Perry,P000605,PA10,R,2012,1962-05-27,http://perry.house.gov
+380,N00038781,Smucker,Lloyd Smucker,S001199,PA11,R,2016,1964-01-23,https://smucker.house.gov
+381,N00044065,Keller,Fred Keller,,PA12,R,2019,,
+382,N00043242,Joyce,John Joyce,J000302,PA13,R,2018,1957-02-08,https://johnjoyce.house.gov/
+383,N00041871,Reschenthaler,Guy Reschenthaler,R000610,PA14,R,2018,1983-04-17,https://reschenthaler.house.gov/
+384,N00029736,Thompson,Glenn Thompson,T000467,PA15,R,2008,1959-07-27,http://thompson.house.gov
+385,N00031647,Kelly,Mike Kelly,K000376,PA16,R,2010,1948-05-10,http://kelly.house.gov
+386,N00041870,Lamb,Conor Lamb,L000588,PA17,D,2018,1984-06-27,https://lamb.house.gov/
+387,N00001373,Doyle,Mike Doyle,D000482,PA18,D,1994,1953-08-05,http://doyle.house.gov
+388,N00001489,Toomey,Pat Toomey,T000461,PAS1,R,2010,1961-11-17,https://www.toomey.senate.gov
+389,N00027503,Casey,Bob Casey,C001070,PAS2,D,2006,1960-04-13,https://www.casey.senate.gov
+390,N00032019,Cicilline,David Cicilline,C001084,RI01,D,2010,1961-07-15,http://cicilline.house.gov
+391,N00009724,Langevin,Jim Langevin,L000559,RI02,D,2000,1964-04-22,http://langevin.house.gov
+392,N00027533,Whitehouse,Sheldon Whitehouse,W000802,RIS1,D,2006,1955-10-20,https://www.whitehouse.senate.gov
+393,N00000362,Reed,Jack Reed,R000122,RIS2,D,1996,1949-11-12,https://www.reed.senate.gov
+394,N00035670,Mace,Nancy Mace,M000194,SC01,R,2020,12/04/77,https://mace.house.gov/
+395,N00024809,Wilson,Joe Wilson,W000795,SC02,R,2001,1947-07-31,http://joewilson.house.gov
+396,N00030752,Duncan,Jeff Duncan,D000615,SC03,R,2010,1966-01-07,http://jeffduncan.house.gov
+397,N00042715,Timmons,William Timmons,T000480,SC04,R,2018,1984-04-30,https://timmons.house.gov/
+398,N00027783,Norman,Ralph Norman,N000190,SC05,R,2017,1953-06-20,https://norman.house.gov
+399,N00002408,Clyburn,James E Clyburn,C000537,SC06,D,1992,1940-07-21,http://clyburn.house.gov
+400,N00033832,Rice,Tom Rice,R000597,SC07,R,2012,1957-08-04,http://rice.house.gov
+401,N00031782,Scott,Tim Scott,S001184,SCS1,R,2013,1965-09-19,https://www.scott.senate.gov
+402,N00009975,Graham,Lindsey Graham,G000359,SCS2,R,2002,1955-07-09,https://www.lgraham.senate.gov/public
+403,N00040559,Johnson,Dusty Johnson,J000301,SD01,R,2018,1976-09-30,https://dustyjohnson.house.gov/
+404,N00004572,Thune,John Thune,T000250,SDS1,R,2004,1961-01-07,https://www.thune.senate.gov
+405,N00035187,Rounds,Mike Rounds,R000605,SDS2,R,2014,1954-10-24,https://www.rounds.senate.gov
+406,N00046688,Harshbarger,Diana Harshbarger,H001086,TN01,R,2020,,https://harshbarger.house.gov/
+407,N00041594,Burchett,Tim Burchett,B001309,TN02,R,2018,1964-08-25,https://burchett.house.gov/
+408,N00030815,Fleischmann,Chuck Fleischmann,F000459,TN03,R,2010,1962-10-11,http://fleischmann.house.gov
+409,N00030957,Desjarlais,Scott Desjarlais,D000616,TN04,R,2010,1964-02-21,https://desjarlais.house.gov
+410,N00003132,Cooper,Jim Cooper,C000754,TN05,D,2002,1954-06-19,http://cooper.house.gov
+411,N00041599,Rose,John Rose,R000612,TN06,R,2018,1965-02-23,https://johnrose.house.gov/
+412,N00041873,Green,Mark Green,G000590,TN07,R,2018,1964-11-08,https://markgreen.house.gov
+413,N00025445,Kustoff,David Kustoff,K000392,TN08,R,2016,1966-10-08,https://kustoff.house.gov
+414,N00003225,Cohen,Steve Cohen,C001068,TN09,D,2006,1949-05-24,https://cohen.house.gov
+415,N00003105,Blackburn,Marsha Blackburn,B001243,TNS1,R,2018,1952-06-06,http://blackburn.house.gov
+416,N00045369,Hagerty,Bill Hagerty,H000601,TNS2,R,2020,08/14/59,https://www.hagerty.senate.gov/
+417,N00026148,Gohmert,Louis B Gohmert Jr.,G000552,TX01,R,2004,1953-08-18,https://gohmert.house.gov
+418,N00042224,Crenshaw,Dan Crenshaw,C001120,TX02,R,2018,1984-03-14,https://crenshaw.house.gov/
+419,N00027709,Taylor,Van Taylor,T000479,TX03,R,2018,1972-08-01,https://vantaylor.house.gov/
+420,N00047264,Fallon,Patrick Fallon,F000246,TX04,R,2020,12/19/67,https://fallon.house.gov/
+421,N00042237,Gooden,Lance Gooden,G000589,TX05,R,2018,1982-12-01,https://gooden.house.gov/
+422,N00042240,Wright,Ron Wright,W000827,TX06,R,2018,1953-04-08,https://wright.house.gov/
+423,N00042243,Ellzey,Jake Ellzey,,TX06,R,2021,,
+424,N00041194,Fletcher,Lizzie Fletcher,F000468,TX07,D,2018,1975-02-13,https://fletcher.house.gov/
+425,N00005883,Brady,Kevin Brady,B000755,TX08,R,1996,1955-04-11,http://kevinbrady.house.gov
+426,N00026686,Green,Al Green,G000553,TX09,D,2004,1947-09-01,http://algreen.house.gov
+427,N00026460,Mccaul,Michael McCaul,M001157,TX10,R,2004,1962-01-14,http://mccaul.house.gov
+428,N00045421,Pfluger,August Pfluger,P000048,TX11,R,2020,,https://pfluger.house.gov/
+429,N00008799,Granger,Kay Granger,G000377,TX12,R,1996,1943-01-18,http://kaygranger.house.gov
+430,N00046055,Jackson,Ronny Jackson,J000304,TX13,R,2020,05/04/67,https://jackson.house.gov/
+431,N00033539,Weber,Randy Weber,W000814,TX14,R,2012,1953-07-02,http://weber.house.gov
+432,N00038809,Gonzalez,Vicente Gonzalez,G000581,TX15,D,2016,1967-09-04,https://gonzalez.house.gov
+433,N00041702,Escobar,Veronica Escobar,E000299,TX16,D,2018,1969-09-15,https://escobar.house.gov/
+434,N00005681,Sessions,Pete Sessions,S000250,TX17,R,1996,1955-03-22,https://sessions.house.gov
+435,N00005818,Jackson Lee,Sheila Jackson Lee,J000032,TX18,D,1994,1950-01-12,http://jacksonlee.house.gov
+436,N00038285,Arrington,Jodey Arrington,A000375,TX19,R,2016,1972-03-09,https://arrington.house.gov
+437,N00033316,Castro,Joaquin Castro,C001091,TX20,D,2012,1974-09-16,https://castro.house.gov
+438,N00042268,Roy,Chip Roy,R000614,TX21,R,2018,1972-08-07,https://roy.house.gov/
+439,N00046067,Nehls,Troy Nehls,N000026,TX22,R,2020,04/07/68,https://nehls.house.gov/
+440,N00044592,Gonzales,Tony Gonzales,G000594,TX23,R,2020,10/10/80,https://gonzales.house.gov/
+441,N00045167,Van Duyne,Beth Van Duyne,V000134,TX24,R,2020,11/16/70,https://vanduyne.house.gov/
+442,N00030602,Williams,Roger Williams,W000816,TX25,R,2012,1949-09-13,http://williams.house.gov
+443,N00025219,Burgess,Michael Burgess,B001248,TX26,R,2002,1950-12-23,http://burgess.house.gov
+444,N00041882,Cloud,Michael Cloud,C001115,TX27,R,2018,1975-05-13,https://cloud.house.gov/
+445,N00024978,Cuellar,Henry Cuellar,C001063,TX28,D,2004,1955-09-19,http://cuellar.house.gov
+446,N00042282,Garcia,Sylvia Garcia,G000587,TX29,D,2018,1950-09-06,https://sylviagarcia.house.gov/
+447,N00008122,Johnson,Eddie Bernice Johnson,J000126,TX30,D,1992,1935-12-03,http://ebjohnson.house.gov
+448,N00025095,Carter,John Carter,C001051,TX31,R,2002,1941-11-06,https://carter.house.gov
+449,N00040989,Allred,Colin Allred,A000376,TX32,D,2018,1983-04-15,https://allred.house.gov/
+450,N00033839,Veasey,Marc Veasey,V000131,TX33,D,2012,1971-01-03,http://veasey.house.gov
+451,N00034349,Vela,Filemon Vela,V000132,TX34,D,2012,1963-02-13,https://vela.house.gov
+452,N00006023,Doggett,Lloyd Doggett,D000399,TX35,D,1994,1946-10-06,https://doggett.house.gov
+453,N00005736,Babin,Brian Babin,B001291,TX36,R,2014,1948-03-23,http://babin.house.gov
+454,N00024852,Cornyn,John Cornyn,C001056,TXS1,R,2002,1952-02-02,https://www.cornyn.senate.gov
+455,N00033085,Cruz,Ted Cruz,C001098,TXS2,R,2012,1970-12-22,https://www.cruz.senate.gov
+456,N00046598,Moore,Blake Moore,M001213,UT01,R,2020,06/22/80,https://blakemoore.house.gov/
+457,N00033932,Stewart,Chris Stewart,S001192,UT02,R,2012,1960-07-15,http://stewart.house.gov
+458,N00041221,Curtis,John Curtis,C001114,UT03,R,2017,1960-05-10,https://curtis.house.gov
+459,N00045812,Owens,Burgess Owens,O000086,UT04,R,2020,08/02/51,https://owens.house.gov/
+460,N00000286,Romney,Mitt Romney,R000615,UTS1,R,2018,1947-03-12,https://www.romney.senate.gov
+461,N00031696,Lee,Mike Lee,L000577,UTS2,R,2010,1971-06-04,https://www.lee.senate.gov/public
+462,N00000515,Welch,Peter Welch,W000800,VT01,D,2006,1947-05-02,https://welch.house.gov
+463,N00000528,Sanders,Bernie Sanders,S000033,VTS1,I,2006,1941-09-08,https://www.sanders.senate.gov
+464,N00009918,Leahy,Patrick Leahy,L000174,VTS2,D,1974,1940-03-31,https://www.leahy.senate.gov
+465,N00029459,Wittman,Rob Wittman,W000804,VA01,R,2007,1959-02-03,http://wittman.house.gov
+466,N00042293,Luria,Elaine Luria,L000591,VA02,D,2018,1975-08-15,https://luria.house.gov/
+467,N00002147,Scott,Bobby Scott,S000185,VA03,D,1992,1947-04-30,http://bobbyscott.house.gov
+468,N00039327,Mceachin,Donald McEachin,M001200,VA04,D,2016,1961-10-10,https://mceachin.house.gov
+469,N00045557,Good,Bob Good,456853,VA05,R,2020,09/11/65,https://good.house.gov/
+470,N00042296,Cline,Ben Cline,C001118,VA06,R,2018,1972-02-29,https://cline.house.gov/
+471,N00041418,Spanberger,Abigail Spanberger,S001209,VA07,D,2018,1979-08-07,https://spanberger.house.gov/
+472,N00036018,Beyer,Don Beyer,B001292,VA08,D,2014,1950-06-20,http://beyer.house.gov
+473,N00032029,Griffith,Morgan Griffith,G000568,VA09,R,2010,1958-03-15,http://morgangriffith.house.gov
+474,N00041002,Wexton,Jennifer Wexton,W000825,VA10,D,2018,1968-05-27,https://wexton.house.gov/
+475,N00029891,Connolly,Gerry Connolly,C001078,VA11,D,2008,1950-03-30,https://connolly.house.gov
+476,N00033177,Kaine,Tim Kaine,K000384,VAS1,D,2012,1958-02-26,https://www.kaine.senate.gov
+477,N00002097,Warner,Mark Warner,W000805,VAS2,D,2008,1954-12-15,https://www.warner.senate.gov
+478,N00030693,Delbene,Suzan DelBene,D000617,WA01,D,2012,1962-02-17,https://delbene.house.gov
+479,N00009759,Larsen,Rick Larsen,L000560,WA02,D,2000,1965-06-15,http://larsen.house.gov
+480,N00031559,Beutler,Jaime Herrera Beutler,H001056,WA03,R,2010,1978-11-03,http://herrerabeutler.house.gov
+481,N00036403,Newhouse,Dan Newhouse,N000189,WA04,R,2014,1955-07-10,https://newhouse.house.gov
+482,N00026314,Rodgers,Cathy McMorris Rodgers,M001159,WA05,R,2004,1969-05-22,http://mcmorris.house.gov
+483,N00034453,Kilmer,Derek Kilmer,K000381,WA06,D,2012,1974-01-01,https://kilmer.house.gov
+484,N00038858,Jayapal,Pramila Jayapal,J000298,WA07,D,2016,1965-09-21,https://jayapal.house.gov
+485,N00041606,Schrier,Kim Schrier,S001216,WA08,D,2018,1968-08-23,https://schrier.house.gov/
+486,N00007833,Smith,Adam Smith,S000510,WA09,D,1996,1965-06-15,https://adamsmith.house.gov
+487,N00046320,Strickland,Marilyn Strickland,S001159,WA10,D,2020,09/25/62,https://strickland.house.gov/
+488,N00007836,Cantwell,Maria Cantwell,C000127,WAS1,D,2000,1958-10-13,https://www.cantwell.senate.gov
+489,N00007876,Murray,Patty Murray,M001111,WAS2,D,1992,1950-10-11,https://www.murray.senate.gov/public
+490,N00031681,Mckinley,David McKinley,M001180,WV01,R,2010,1947-03-28,https://mckinley.house.gov
+491,N00033814,Mooney,Alex Mooney,M001195,WV02,R,2014,1971-06-05,https://mooney.house.gov
+492,N00041542,Miller,Carol Miller,M001205,WV03,R,2018,1950-11-04,https://miller.house.gov/
+493,N00032838,Manchin,Joe Manchin,M001183,WVS1,D,2010,1947-08-24,https://www.manchin.senate.gov/public
+494,N00009771,Capito,Shelley Moore Capito,C001047,WVS2,R,2014,1953-11-26,https://www.capito.senate.gov
+495,N00043379,Steil,Bryan Steil,S001213,WI01,R,2018,1981-03-30,https://steil.house.gov/
+496,N00033549,Pocan,Mark Pocan,P000607,WI02,D,2012,1964-08-14,http://pocan.house.gov
+497,N00004403,Kind,Ron Kind,K000188,WI03,D,1996,1963-03-16,https://kind.house.gov
+498,N00026914,Moore,Gwen Moore,M001160,WI04,D,2004,1951-04-18,https://gwenmoore.house.gov
+499,N00045434,Fitzgerald,Scott Fitzgerald,F000471,WI05,R,2020,11/16/63,https://fitzgerald.house.gov/
+500,N00036409,Grothman,Glenn S Grothman,G000576,WI06,R,2014,1955-07-03,http://grothman.house.gov
+501,N00045307,Tiffany,Tom Tiffany,,WI07,R,2020,,
+502,N00039330,Gallagher,Mike Gallagher,G000579,WI08,R,2016,1984-03-03,https://gallagher.house.gov
+503,N00004367,Baldwin,Tammy Baldwin,B001230,WIS1,D,2012,1962-02-11,https://www.baldwin.senate.gov
+504,N00032546,Johnson,Ron Johnson,J000293,WIS2,R,2010,1955-04-08,https://www.ronjohnson.senate.gov
+505,N00035504,Cheney,Liz Cheney,C001109,WY01,R,2016,1966-07-28,https://cheney.house.gov
+506,N00006236,Barrasso,John A Barrasso,B001261,WYS1,R,2007,1952-07-21,https://www.barrasso.senate.gov
+507,N00029788,Lummis,Cynthia Lummis,L000571,WYS2,R,2020,1954-09-10,http://lummis.house.gov
